@@ -10,9 +10,13 @@ navbar:
       href: index.html
     - text: "Blog"
       href: blog.html
+    - icon: fa fa-rss
+      href: blog.xml
 output: distill::distill_article
 collections:
   posts:
     subscribe: _subscribe.html
     citations: false
+rss:
+  full_content: true
 
