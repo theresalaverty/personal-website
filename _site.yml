@@ -17,6 +17,9 @@ collections:
   posts:
     subscribe: _subscribe.html
     citations: false
+    disqus:
+      shortname: theresalaverty-distill
+      hidden: true
 rss:
   full_content: true
 
