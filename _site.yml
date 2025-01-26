@@ -1,0 +1,17 @@
+name: "personal-website"
+title: "Theresa Laverty"
+description: |
+  Theresa Laverty
+output_dir: "_site"
+base_url: https://theresalaverty.net/
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Blog"
+      href: blog.html
+output: distill::distill_article
+collections:
+  posts:
+    subscribe: _subscribe.html
+

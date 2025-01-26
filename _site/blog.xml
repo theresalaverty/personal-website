@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Theresa Laverty</title>
+    <link>https://theresalaverty.net/</link>
+    <atom:link href="https://theresalaverty.net/blog.xml" rel="self" type="application/rss+xml"/>
+    <description>Theresa Laverty
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Sun, 26 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Welcome</title>
+      <dc:creator>Theresa Laverty</dc:creator>
+      <link>https://theresalaverty.net/posts/2025-01-26-welcome</link>
+      <description>Beginning a social media detox journey.</description>
+      <guid>https://theresalaverty.net/posts/2025-01-26-welcome</guid>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <media:content url="https://theresalaverty.net/posts/2025-01-26-welcome/20241225.jpg" medium="image" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>

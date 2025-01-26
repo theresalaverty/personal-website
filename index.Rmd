@@ -1,0 +1,26 @@
+---
+title: "Theresa Laverty"
+image: "images/theresa.jpg"
+links:
+  - label: Lab Website
+    url: "https://www.lavertylab.org/"
+  - label: Bluesky
+    url: "https://bsky.app/profile/theresalaverty.bsky.social"
+  - label: GitHub
+    url: "https://github.com/theresalaverty"
+  - label: ORCID iD
+    url: "https://orcid.org/0000-0003-1727-5943"
+site: distill::distill_website
+output:
+  postcards::jolla
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+
+Hi! I'm an assistant professor in the Dept. of Fish, Wildlife and Conservation Ecology at New Mexico State University. Besides wildlife ecology, I'm into hiking, camping, and trail running with my husband, John, and our dog, Bruce. I hope to post updates here for our friends and family on our adventures across the southwestern U.S. and beyond.
