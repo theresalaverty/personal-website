@@ -4,6 +4,7 @@ description: |
   Theresa Laverty
 output_dir: "_site"
 base_url: https://theresalaverty.net/
+google_analytics: "G-PDT69309XW"
 navbar:
   right:
     - text: "Home"
