@@ -34,9 +34,9 @@ knitr::include_graphics("20250425.jpg")
 ```
 ```{r, eval=TRUE, echo=FALSE}
 #| fig.cap: > 
-#|    Theresa and David Kimiti smile near the end of a hike on the Alkali Flats trail in White Sands National Park.
+#|    Theresa and David Kimiti smile near the end of a hike on the Alkali Flat Trail in White Sands National Park.
 #| fig.alt: > 
-#|    Theresa and David Kimiti smile near the end of a hike on the Alkali Flats trail in White Sands National Park.
+#|    Theresa and David Kimiti smile near the end of a hike on the Alkali Flat Trail in White Sands National Park.
 knitr::include_graphics("20250217.jpg")
 ```
 
