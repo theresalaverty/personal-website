@@ -17,5 +17,14 @@
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
       <media:content url="https://theresalaverty.net/posts/2025-01-26-welcome/20241225.jpg" medium="image" type="image/jpeg"/>
     </item>
+    <item>
+      <title>One year</title>
+      <dc:creator>Theresa Laverty</dc:creator>
+      <link>https://theresalaverty.net/posts/2026-01-19-one year</link>
+      <description>A year into my social media detox journey.</description>
+      <guid>https://theresalaverty.net/posts/2026-01-19-one year</guid>
+      <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
+      <media:content url="https://theresalaverty.net/posts/2026-01-19-one year/20250705.jpg" medium="image" type="image/jpeg"/>
+    </item>
   </channel>
 </rss>

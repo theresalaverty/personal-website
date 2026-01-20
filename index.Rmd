@@ -25,4 +25,4 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-Hi! I'm an assistant professor in the Dept. of Fish, Wildlife and Conservation Ecology at New Mexico State University. Besides wildlife ecology, I'm into hiking, camping, and trail running with my husband, John, and our dog, Bruce. I hope to post updates here for our friends and family on our adventures across the southwestern U.S. and beyond.
+Hi! I'm an assistant professor in the Dept. of Fish, Wildlife and Conservation Ecology at New Mexico State University. Besides wildlife ecology, I'm into hiking, camping, and trail running with my husband, John, and our dogs, Bruce and Zoe. I hope to post updates here for our friends and family on our adventures across the southwestern U.S. and beyond.
